@@ -1,0 +1,6 @@
+First line: Learning Python basics
+Second line: Understanding data structures
+Third line: Working with functions
+Fourth line: File handling operations
+Fifth line: Object-oriented programming
+Sixth line: Building real-world applications
